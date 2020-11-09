@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\hp\downloads\stack-ii\stack ii\posfix eve\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Posfix Eve.vcxproj -> C:\Users\HP\Downloads\Stack-II\Stack II\x64\Debug\Posfix Eve.exe

@@ -1,0 +1,7 @@
+﻿  emp.cpp
+  main.cpp
+c:\users\hp\downloads\queue-ii\aug_11\queuearray\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  queue.cpp
+  Generating Code...
+c:\users\hp\downloads\queue-ii\aug_11\queuearray\queue.cpp(38): warning C4715: 'cQueue::DeQueue': not all control paths return a value
+  QueueArray.vcxproj -> C:\Users\HP\Downloads\Queue-II\Aug_11\x64\Debug\QueueArray.exe

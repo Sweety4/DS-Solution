@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\hp\downloads\graph-ii\aug_19\selectionsort\main.cpp(38): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\hp\downloads\graph-ii\aug_19\selectionsort\main.cpp(39): warning C4101: 'ele': unreferenced local variable
+  SelectionSort.vcxproj -> C:\Users\HP\Downloads\Graph-II\Aug_19\x64\Debug\SelectionSort.exe

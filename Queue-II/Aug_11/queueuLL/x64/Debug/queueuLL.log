@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\hp\downloads\queue-ii\aug_11\queueull\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  node.cpp
+  queue.cpp
+  Generating Code...
+queue.obj : error LNK2005: "public: __cdecl Node::Node(void)" (??0Node@@QEAA@XZ) already defined in node.obj
+queue.obj : error LNK2005: "public: int __cdecl Node::getData(void)" (?getData@Node@@QEAAHXZ) already defined in node.obj
+queue.obj : error LNK2005: "public: class Node * __cdecl Node::getNext(void)" (?getNext@Node@@QEAAPEAV1@XZ) already defined in node.obj
+queue.obj : error LNK2005: "public: void __cdecl Node::setData(int)" (?setData@Node@@QEAAXH@Z) already defined in node.obj
+queue.obj : error LNK2005: "public: void __cdecl Node::setNext(class Node *)" (?setNext@Node@@QEAAXPEAV1@@Z) already defined in node.obj
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl cQueue::cQueue(void)" (??0cQueue@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl cQueue::EnQueue(int)" (?EnQueue@cQueue@@QEAAXH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: int __cdecl cQueue::DeQueue(void)" (?DeQueue@cQueue@@QEAAHXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl cQueue::Display(void)" (?Display@cQueue@@QEAAXXZ) referenced in function main
+C:\Users\HP\Downloads\Queue-II\Aug_11\x64\Debug\queueuLL.exe : fatal error LNK1120: 4 unresolved externals

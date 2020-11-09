@@ -1,0 +1,7 @@
+﻿  emp.cpp
+  linklist.cpp
+D:\Know-IT Solutions\Data Structure\DS\Ass1\Ass2\linklist.cpp(17,6): warning C4101: 'i': unreferenced local variable
+  main.cpp
+  node.cpp
+  Generating Code...
+  Ass2.vcxproj -> D:\Know-IT Solutions\Data Structure\DS\Ass1\x64\Debug\Ass2.exe

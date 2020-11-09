@@ -1,0 +1,6 @@
+﻿  grapg.cpp
+c:\users\hp\downloads\graph-ii\aug_19\aug_19\grapg.cpp(36): warning C4101: 'move': unreferenced local variable
+c:\users\hp\downloads\graph-ii\aug_19\aug_19\grapg.cpp(36): warning C4101: 'no': unreferenced local variable
+  main.cpp
+  Generating Code...
+  Aug_19.vcxproj -> C:\Users\HP\Downloads\Graph-II\Aug_19\x64\Debug\Adj_List.exe

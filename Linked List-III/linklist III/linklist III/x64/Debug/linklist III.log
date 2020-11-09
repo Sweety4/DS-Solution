@@ -1,0 +1,6 @@
+﻿  linklist.cpp
+c:\users\hp\downloads\linked list-iii\linklist iii\linklist iii\linklist.cpp(95): warning C4101: 'move': unreferenced local variable
+  main.cpp
+  node.cpp
+  Generating Code...
+  linklist III.vcxproj -> C:\Users\HP\Downloads\Linked List-III\linklist III\x64\Debug\Ass1.exe

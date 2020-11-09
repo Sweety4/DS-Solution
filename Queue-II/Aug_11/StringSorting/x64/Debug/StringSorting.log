@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\hp\downloads\queue-ii\aug_11\stringsorting\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  StringSorting.vcxproj -> C:\Users\HP\Downloads\Queue-II\Aug_11\x64\Debug\StringSorting.exe

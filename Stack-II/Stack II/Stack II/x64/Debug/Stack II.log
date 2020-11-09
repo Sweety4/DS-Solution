@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\hp\downloads\stack-ii\stack ii\stack ii\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  stack.cpp
+c:\users\hp\downloads\stack-ii\stack ii\stack ii\stack.cpp(43): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\hp\downloads\stack-ii\stack ii\stack ii\stack.cpp(43): warning C4309: 'initializing': truncation of constant value
+c:\users\hp\downloads\stack-ii\stack ii\stack ii\stack.cpp(133): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Stack II.vcxproj -> C:\Users\HP\Downloads\Stack-II\Stack II\x64\Debug\Infix to Postfix.exe
